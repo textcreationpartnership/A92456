@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Commissioners of the Kingdome of Scotland residing here at London, to William Lenthal Esquire, Speaker to the House of Commons. Concerning the present proceedings in this Kingdome, against religion, the King, and Government: together with their declaration and protestation, against the taking away of his Majesties life.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92456</idno>
+            <idno type="STC">Wing S1002F</idno>
+            <idno type="STC">Thomason E539_11</idno>
+            <idno type="STC">ESTC R205709</idno>
+            <idno type="EEBO-CITATION">99865007</idno>
+            <idno type="PROQUEST">99865007</idno>
+            <idno type="VID">164892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164892)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E539[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Commissioners of the Kingdome of Scotland residing here at London, to William Lenthal Esquire, Speaker to the House of Commons. Concerning the present proceedings in this Kingdome, against religion, the King, and Government: together with their declaration and protestation, against the taking away of his Majesties life.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Dom. 1648. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164892:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>A LETTER From the Commiſsioners of the Kingdome of SCOTLAND Reſiding here at LONDON, To WILLIAM LENTHALL Eſquire, Speaker of the Houſe of COMMONS.</p>
+            <p>Concerning the preſent Proceedings in this King<g ref="char:EOLhyphen"/>dome, againſt Religion, the King, and Government:</p>
+            <p>TOGETHER, <hi>With their Declaration and Proteſtation, against the taking away his Majeſties Life.</hi>
+            </p>
+            <p>Printed ANNO DOM. 1648.</p>
+            <pb facs="tcp:164892:2"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:164892:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:164892:3"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="1" facs="tcp:164892:3"/>
+            <!-- PDF PAGE 80 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Committee of Eſtates of the Kingdome of Scotland, underſtanding, that the honourable Houſes of Parliament, were proceeding in a Treaty for Peace, with his Majeſty, did about the be<g ref="char:EOLhyphen"/>ginning of the laſt Moneth, Authorize Us to preſent Propoſitions to his Majeſty; And Particularly to deale with him, and the honourable Houſes; for eſtabliſhing the Covenant and Presbyteriall Government, the Con<g ref="char:EOLhyphen"/>feſſion of Faith, Directory for Worſhip, and Cate<g ref="char:EOLhyphen"/>chiſme; For preventing the toleration of Idolatry, Po<g ref="char:EOLhyphen"/>pery, Prelacy, Superſtition, Blaſphemy, Hereſie, and Schiſme; And for perfecting the great worke of Re<g ref="char:EOLhyphen"/>formation and Uniformity, according to the Covenant: the ſubſtanee whereof hath been formerly communica<g ref="char:EOLhyphen"/>ted in a letter from the Committee of Eſtates, to both Houſes, and by one of our Number, upon his recepti<g ref="char:EOLhyphen"/>on at the Committee of <hi>Derby</hi>-houſe, by Order from the Houſes of Parliament. But to our great grief wee doe perceive; That the diſtractions of this Kingdome are, beyond our expectation, growne exceeding high; That a force hath been placed on the paſſages to the Houſes; Which during tranſactions of higheſt con<g ref="char:EOLhyphen"/>cernment, hath impriſoned and ſecluded a great number of Members of Parliament; and given occaſion to ma<g ref="char:EOLhyphen"/>ny others, to with-draw, becauſe they find they cannot act as in a Free Parliament. That applications are made to You, for proceeding againſt the King, to take away his life, And for changing the Government of
+<pb n="2" facs="tcp:164892:4"/>
+               <!-- PDF PAGE 81 -->
+this Kingdome; And ſtrong endeavours are uſed to O<g ref="char:EOLhyphen"/>verturne the whole worke of Reformation, to caſt off the Miniſtery, and introduce a toleration of all Reli<g ref="char:EOLhyphen"/>gions and Formes of Worſhip; And ſo in effect, to de<g ref="char:EOLhyphen"/>ſtroy the Cauſe wherein both Nations have been enga<g ref="char:EOLhyphen"/>ged; And fruſtrate all the ends of the ſolemne League and Covenant, which both Kingdomes have ſworne with up-lifted hands to Almighty GOD ſincerely, real<g ref="char:EOLhyphen"/>ly, and conſtantly to performe. The conſideration of theſe things doth exceedingly trouble us, and fill our hearts with feares; That, as they are for the preſent, matter of great provocation of the wrath of God a<g ref="char:EOLhyphen"/>gainſt us, diſhonourable to his Name, and a reproach to Religion; So, if perſiſted in, That they ſhall greatly weaken and divide us amongſt our ſelves; Unite for<g ref="char:EOLhyphen"/>raigne Enemies againſt us; Advance the Popiſh inte<g ref="char:EOLhyphen"/>reſt; Looſe <hi>Ireland;</hi> and, in the end, prove deſtructive to the reformed Religion, and to the Peace and happineſs of theſe Kingdomes.</p>
+            <p>In the yeare 1640. When theſe Kingdoms were op<g ref="char:EOLhyphen"/>preſſed under the Yoke and tyrannie of the Prelates, who then were far advanced in the deſigne, to introduce Popery; The Kingdome of <hi>Scotland</hi> did joyne their en<g ref="char:EOLhyphen"/>deavours with this Kingdome to procure a free Parlia<g ref="char:EOLhyphen"/>ment here; looking upon it, as the chief meane, by the bleſſing of God, to give a check to the deſignes of the Prelats, who were ſtudying the change of Religion; and to the enterpriſes of evill Councellors about the King, who were endeavouring to eſtabliſh an Arbitrary and tyrannicall Government. And afterward, when through the power and prevalency of Papiſts, Prelates, and Ma<g ref="char:EOLhyphen"/>lignants, this Kingdome was diſtreſſed; The Kingdome
+<pb n="3" facs="tcp:164892:4"/>
+               <!-- PDF PAGE 81 -->
+of <hi>Scotland,</hi> did enter into a ſolemne League and Co<g ref="char:EOLhyphen"/>venant with this Nation: For reformation and defence of Religion, the Honour and happineſſe of the King; and the Peace and Safety of the three Kingdomes; And Particularly, for bringing the Churches of God there<g ref="char:EOLhyphen"/>in, to the neereſt conjunction and uniformity in Reli<g ref="char:EOLhyphen"/>gion, Confeſſion of Faith, forme of Church governe<g ref="char:EOLhyphen"/>ment, Directory for worſhip, and Catechiſing: For extirpation of Popery, Prelacy, Superſtition, Hereſie, Schiſme, Prophaneneſſe, and whatſoever ſhall be found contrary to found Doctrine: For mutuall preſervation of the rights and priviledges of the Parliaments, and li<g ref="char:EOLhyphen"/>berties of the Kingdomes: For diſcovering of Incen<g ref="char:EOLhyphen"/>diaries, Malignants, and evill Inſtrument, that hinder reformation of Religion, divide the King from his peo<g ref="char:EOLhyphen"/>ple, or one of the Kingdomes from another, or make any faction or party among the people, contrary to this League and Covenant, that they might be brought to publique triall and puniſhment: For preſerving Peace and union betwixt the Kingdomes, and defen<g ref="char:EOLhyphen"/>ding one another in this Cauſe, and continuing therein all the dayes of our lives Zealouſly and conſtantly, a<g ref="char:EOLhyphen"/>gainſt all oppoſition, and for promoting the ſame, ac<g ref="char:EOLhyphen"/>cording to our power, againſt all Lets and Impediments whatſoever.</p>
+            <p>In purſuance of the Solemne League and Cove<g ref="char:EOLhyphen"/>nant, both Houſes of Parliament have often declared, That they will eſtabliſh the reformation of Religion; Extirpate Popery, and Prelacy, and ſuppreſſe hereſie and Schiſme; And that they will maintaine the fundamen<g ref="char:EOLhyphen"/>tall Government of this Kingdome, by King, Lords, and Commons. And when the common Enemy being ſub<g ref="char:EOLhyphen"/>dued,
+<pb n="4" facs="tcp:164892:5"/>
+               <!-- PDF PAGE 82 -->
+the Scottiſh Army was to goe out of this King<g ref="char:EOLhyphen"/>dome, in the beginning of the yeare 1647. And his Majeſty by conſent of both Kingdomes was to come to <hi>Holdenby;</hi> The Houſes of Parliament did declare both to the King, and to the Kingdome of <hi>Scotland;</hi> That reſpect ſhould be had to the ſafety and preſervati<g ref="char:EOLhyphen"/>on of his Majeſties Perſon, in the preſervation and de<g ref="char:EOLhyphen"/>fence of the true Religion, and Liberties of the King<g ref="char:EOLhyphen"/>domes, according to the Covenant. And when the King ſhould be at <hi>Holdenby,</hi> and the Scottiſh forces gone out of this Kingdome, That they would joyne with the Kingdome of <hi>Scotland,</hi> in imploying their beſt endeavours, to procure his Majeſties aſſent to the Propoſitions agreed on by both Kingdomes. And in caſe the King ſhould not give his aſſent thereunto, That the Houſes were reſolved ſtill to maintaine the happie Union already ſetled betweene the two Kingdomes, ac<g ref="char:EOLhyphen"/>cording to the Covenant and Treaties. The Parlia<g ref="char:EOLhyphen"/>ment of Scotland did at the ſame t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me alſo, publiſh a Declaration of their intentions (whereof one copie was delivered to his Majeſty, and another to the Hou<g ref="char:EOLhyphen"/>ſes of Parliament.) That in the interim (untill his Majeſty ſhould give ſatisfaction to both Kingdomes, in the Propoſitions of Peace) there ſhould be no harm, prejudice injury, or violence done to his royall Perſon; That there ſhould be no change of Government, o<g ref="char:EOLhyphen"/>ther then had beene for the three yeares preceding; And that his Poſterity ſhould be no wayes prejudiced in their lawfull ſucceſſion to the Crowne and Govern<g ref="char:EOLhyphen"/>ment of theſe Kingdomes.</p>
+            <p>Theſe being the engagements of both Kingdomes joyntly together, and ſeverally one to another, for the
+<pb n="5" facs="tcp:164892:5"/>
+               <!-- PDF PAGE 82 -->
+ends aforeſaid; Wee hold it our duty to endeavour, That reformation of Religion be ſetled and eſtabliſhed, as is before expreſſed; And Eſpecially, that the tolerati<g ref="char:EOLhyphen"/>on of Idolatry, Popery, Blaſphemy, hereſie and Schiſme, be prevented: leaſt wee partake in other mens Sinn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; and thereby be in danger to receive of their plagues; That the rights and priviledges of Parliament may be preſerved; That there may be no change of the funda<g ref="char:EOLhyphen"/>mentall Government; And that there be no harme, in<g ref="char:EOLhyphen"/>jury, or violence offred to his Majeſties perſon; the very thought whereof, the Kingdome of Scotland hath al<g ref="char:EOLhyphen"/>wayes abhorred, as may appeare by all their procee<g ref="char:EOLhyphen"/>dings and Declarations: And the Houſes of Parlia<g ref="char:EOLhyphen"/>ment, have upon ſeverall occaſions, expreſſed a deteſta<g ref="char:EOLhyphen"/>tion thereof in their Declarations.</p>
+            <p>Wherefore, wee doe expect, that their ſhall be no proceeding againſt his Perſon, which cannot but conti<g ref="char:EOLhyphen"/>nue and increaſe the great diſtractions of theſe King<g ref="char:EOLhyphen"/>domes, and involve u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in many difficulties, miſeries, and confuſions: But that by the free Councels of both Houſes of the Parliament of <hi>England,</hi> and with the ad<g ref="char:EOLhyphen"/>vice and conſent of the Parliament of <hi>Scotland,</hi> (which is now ſitting) Such courſe may be taken in relation to him, as may be for the good and happineſſe of theſe Kingdomes; both having an unqueſtionable intereſt therein. Wee are</p>
+            <closer>
+               <dateline>Covent-Garden <date>the 6<hi rend="sup">th</hi> of Ianuary, 1648./9.</date>
+               </dateline>
+               <signed>Your affectionate Friends and Servants, Signed,
+<list>
+                     <item>LOTHIAN.</item>
+                     <item>IO: CHEISEY,</item>
+                     <item>WIL: GLENDONING.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>For the Hon: <hi>Wil. Lenthall</hi> Eſquire, Speaker of the Houſe of Commons.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:164892:6"/>
+            <!-- PDF PAGE 83 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UPon the ſixth of this inſtant, We ſent to you a Letter, with a copy of our Commiſſion inclo<g ref="char:EOLhyphen"/>ſed; and delivered another Letter to be therewith communicated to the Houſe, which were directed, as uſually letters from the Commiſſioners of <hi>Scotland,</hi> to the Houſe of Commons, have been. And when upon the delivery thereof, the Serjeant of the Houſe was ſent to enquire of us; whether the letters were to the Speaker himſelfe, or to be communicated to the Houſe; We anſwered that they were to be communicated to the Houſe. And although we have divers times fithence, ſolicited you for the reading thereof; yet we under<g ref="char:EOLhyphen"/>ſtand, that our letters do ſtill remaine in your hands, and have not been communicated. Wherefore, we hold it our duty hereby to repreſent our ſence of this delay; expecting that we ſhall be enabled to give an account of our endeavours to the Parliament of <hi>Scot<g ref="char:EOLhyphen"/>land.</hi> And ſo we reſt,</p>
+            <closer>
+               <dateline>Covent-Garden <date>the 19. of Ianuary 1649/8.</date>
+               </dateline>
+               <signed>Your affectionate friends and ſervants, <hi>Signed,</hi>
+                  <list>
+                     <item>Lothian,</item>
+                     <item>Io. Chieſly,</item>
+                     <item>William Glendoning.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>For the Hon. <hi>will. Lenthall</hi> Eſquire, Speaker of the Houſe of Commons,</trailer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:164892:6"/>
+            <!-- PDF PAGE 83 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE were exceedingly ſurprized upon <hi>Sa<g ref="char:EOLhyphen"/>turday</hi> in the afternoon, when we heard that His Majeſty was brought before this new extraordinary Court; and that there ſhould be ſuch haſt and precipitation, notwithſtanding the reſo<g ref="char:EOLhyphen"/>lution taken by the Houſe, upon reading of our Letter of the ſixth of this inſtant, to take into conſideration what we have therein preſſed; as was ſignifyed by you to ſome of our Number. Wherefore, we have ſent you this incloſed Paper to be forthwith communica<g ref="char:EOLhyphen"/>ted unto them. And in purſuance of the directions which we have received from the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> we do deſire, That they will take effectuall courſe, that we may have free acceſſe to His Majeſty this day, and afterward upon all occaſions, as we ſhall thinke fit, without any interruption or moleſtation whatſoever. And ſo we reſt,</p>
+            <closer>
+               <dateline>Covent-Garden <date>the 22,th of January 1649/8.</date>
+               </dateline>
+               <signed>Your affectionate friends and ſervants.
+<list>
+                     <item>Lothian,</item>
+                     <item>Io. Chieſly,</item>
+                     <item>William Glend<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ing.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>For the Honourable <hi>William Lenthall</hi> Eſquire, Speaker of the houſe of Commons.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:164892:7"/>
+            <!-- PDF PAGE 84 -->
+            <p>BY our Letter of the ſixth of this inſtant, We repreſented unto you; what endeavours have been uſed, for the taking away of his Majeſties life; for change of the Fundamentall Government of this Kingdome, and introducing a ſinfull and ungodly Tolleration in matters of Religion. And therein, we did expreſſe our ſad thoughts and great feares, of the dangerous conſequences that might follow thereupon. And further, we did earneſtly preſſe, that there might be no proceeding againſt his Majeſties perſon; which would certainly continue the great diſtractions of theſe Kingdomes; and involve us in many evils, troubles, and confuſions: But that by the free Counſels of both Houſes of the Parliament of <hi>England,</hi> and with the ad<g ref="char:EOLhyphen"/>vice and conſent of the Parliament of <hi>Scotland,</hi> ſuch courſe might be taken in relation to him, as may be for the good and happineſſe of theſe Kingdomes; both having an unqueſtionable and undenyable intereſt in his Perſon, as King of both: which duely conſidered, we had reaſon to hope, ſhould have given a ſtop to all proceedings, againſt his Majeſties Perſon. But we un<g ref="char:EOLhyphen"/>derſtand; That, after many of the Members of the Houſe of Commons have been impriſoned and Secluded; And alſo without and againſt the conſent of the houſe of Peeres, by a ſingle Act of yours alone, power is given to certaine Perſons of your own number, of the Army and ſome others, to proceed againſt His Majeſties per<g ref="char:EOLhyphen"/>ſon; In order whereunto, he was brought upon <hi>Sa<g ref="char:EOLhyphen"/>terday</hi> laſt in the afternoone, before this new extraor<g ref="char:EOLhyphen"/>dinary Court. Wherefore, we do in the name of the Parliament of <hi>Scotland,</hi> for their Vindication from falſe aſperſions and Calumnies, declare. That though they
+<pb n="9" facs="tcp:164892:7"/>
+               <!-- PDF PAGE 84 -->
+are not ſatisfyed with His Majeſties Conceſſions in the late Treaty at <hi>Newport</hi> in the Iſle of <hi>Wight,</hi> eſpecially in the matters of Religion; And are reſolved not to crave His Majeſties reſtitution to his Government, be<g ref="char:EOLhyphen"/>fore ſatisfaction be given by him, to his Kingdomes; yet they do all unanimouſly, with one voice (not one Member excepted) diſclaime the leaſt knowledge of, or acceſſion to the late proceedings of the Army here, againſt His Majeſtie; And ſincerely profeſſe, that it will be a great griefe unto their hearts, and lye heavy upon their Spirits, if they ſhall ſee their truſting of his Majeſties Perſon, to the honourable Houſes of the Parliament of <hi>England,</hi> to be made uſe of to his ruine; ſo far contrary to the declared intentions of the king<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> and Solemn Profeſſions of the king<g ref="char:EOLhyphen"/>dome of <hi>England.</hi> And to the end it may be mani<g ref="char:EOLhyphen"/>feſt to the world, how much they abominate and de<g ref="char:EOLhyphen"/>teſt ſo horrid a deſigne, againſt his Majeſties Perſon: We do in the name of the Parliament and kingdome of <hi>Scotland,</hi> hereby declare, their diſſent from the ſaid proceedings, and the taking away of His Majeſties life; And proteſt, That as they are altogether free from the ſame; ſo they may be free from all the evils, miſeries, confuſions, and calamities that may follow thereupon, to theſe diſtracted Kingdomes.</p>
+            <closer>
+               <dateline>
+                  <date>22.<hi>th</hi> Ian. 1648.</date>
+               </dateline>
+               <signed>Signed
+<list>
+                     <item>Lothian</item>
+                     <item>Io. Chieſly</item>
+                     <item>William Glendoning.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
